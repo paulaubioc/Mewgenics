@@ -29,6 +29,17 @@
 
 <br/>
 
+<!-- DOWNLOAD BUTTON -->
+<a href="https://store.steampowered.com/app/686060/Mewgenics/">
+  <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20ON%20STEAM-%23E84545?style=for-the-badge&logo=steam&logoColor=white&labelColor=0d0d0d" height="50"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://mewgenicsc.itch.io/mewgenics">
+  <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20ON%20ITCH.IO-%23E84545?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=0d0d0d" height="50"/>
+</a>
+
+<br/>
+
 </div>
 
 ---
